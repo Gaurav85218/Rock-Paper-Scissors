@@ -67,4 +67,38 @@
     display: flex;
     justify-content: space-evenly;
 }
+.mid{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.userpic{
+    width: 10rem;
+    height: 10rem;
+    
+    border-radius: 50%;
+    background-size: contain;
+}
+.comppic{
+    width: 10rem;
+    height: 10rem;
+    background-image: url('');
+    border-radius: 50%;
+    background-size: contain;
+   
+}
+.wu{
+    color: black;
+    font-size: 1.25rem;
+    font-weight: 650;
+    margin-left: 2.5rem;
+    margin-bottom: 2rem;   
+}
+.wc{
+    color: black;
+    font-size: 1.25rem;
+    font-weight: 650;
+    margin-right: 2.5rem;   
+    margin-bottom: 2rem;   
+}
 
